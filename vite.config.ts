@@ -19,6 +19,6 @@ export default defineConfig(({ mode }) => {
           '@': path.resolve(__dirname, '.'),
         }
       },
-      base: '/al%C3%B4pro-b%C3%A9nin/'
+      base: '/al-pro-b-nin/'
     };
 });
