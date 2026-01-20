@@ -1,0 +1,8 @@
+
+{
+  "name": "AlôPro Bénin",
+  "description": "Plateforme de mise en relation pour artisans au Bénin (Plombiers, Électriciens, Mécaniciens) avec intégration Mobile Money et système de confiance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
